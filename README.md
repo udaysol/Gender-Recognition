@@ -1,6 +1,6 @@
-# G-recognition through Voice
+# Gender Recognition through Voice
 
-**G-recognition through Voice** is a machine learning-based project designed to predict a speaker's gender based on audio input. This system is built using Python and supports both single and batch predictions. It includes tools for feature extraction, data preparation, and model training, allowing users to either use the pre-trained model or train the model themselves.
+**Gender Recognition through Voice** is a machine learning-based project designed to predict a speaker's gender based on audio input. This system is built using Python and supports both single and batch predictions. It includes tools for feature extraction, data preparation, and model training, allowing users to either use the pre-trained model or train the model themselves.
 
 > **Note**: This project is a work in progress and not yet fully complete.
 
@@ -20,7 +20,7 @@
 To train the model, organize your dataset and files as follows:
 
 ```
-g-recognition-voice/
+Gender Recognition-voice/
 ├── dataset/
 │   ├── <audio_file_1>.wav
 │   ├── <audio_file_2>.wav
@@ -60,8 +60,8 @@ g-recognition-voice/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/g-recognition-voice.git
-   cd g-recognition-voice
+   git clone https://github.com/yourusername/Gender Recognition-voice.git
+   cd Gender Recognition-voice
    ```
 
 2. Install required Python libraries:
